@@ -1,0 +1,17 @@
+li  {
+    background-color: whitesmoke;
+}
+
+li a {
+    cursor: pointer;
+    background-color: blanchedalmond;
+    color: rgb(0, 247, 0);
+}
+
+.color-backg{
+    background-color: rgb(66, 66, 66);
+}
+
+ul{
+    background-color: rgb(79, 77, 77)
+}
