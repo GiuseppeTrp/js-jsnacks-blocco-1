@@ -1,4 +1,12 @@
-// Funzione per confrontare parole
+  
+  /*
+
+L’utente inserisce due parole in successione, con due prompt.
+Il software stampa prima la parola più corta, poi la parola più lunga.
+
+*/
+  
+  // Funzione per confrontare parole
 function repeat() {
     // Chiedi all'utente di scrivere due parole
     const writeWord1 = prompt("Scrivi una parola");
